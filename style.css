@@ -1,0 +1,311 @@
+/* Set height and width to 100% for HTML */
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* Reset margin and padding for the body */
+body {
+  height: 980px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/*----------------------- index ---------*/
+.allItems {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+.filterItems {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+  border: #757979 solid 10px;
+}
+
+.products {
+  width: 200px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.productImg {
+  width: 100%;
+  height: auto;
+}
+
+
+
+/*----------------------- createItems ---------*/
+
+.itemImg{
+  width: 40px;
+  
+}
+
+header h1 {
+  margin: 0;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+/* Styling for the navigation menu */
+.navigation, .navmenu {
+  text-align: center;
+}
+
+.navmenu{
+  background-color: #7e868685;
+  margin: 0 2em;
+  padding: 20px 0;
+
+}
+
+navigation ul {
+  /* width: 980px; */
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+navigation ul li {
+  display: inline;
+  margin: 40px;
+}
+
+
+/* Styling for the content, footer, and actions */
+
+#content {
+  min-height: 500px;
+  padding: 40px 30px;
+}
+
+footer {
+  height: 20px;
+  margin: 0 0 10px 0;
+  padding: 10px 20px;
+  background: #313232;
+  color: white;
+  text-align: center;
+}
+
+/* Actions */
+
+.actions {
+  margin-bottom: 1em;
+  text-align: right;
+  padding: 0 40px 20px 0;
+  
+}
+
+
+/* Styling for lists, forms, and errors */
+table {
+  border-collapse: collapse;
+  vertical-align: top;
+}
+
+table.list {
+  width: 100%;
+}
+
+table.list tr td {
+  border: 1px solid #999999;
+}
+
+table.list tr th {
+  border: 1px solid #313232;
+  background: #313232;
+  color: white;
+  text-align: left;
+}
+
+/* Forms */
+
+dl {
+  clear: both;
+  overflow: hidden;
+  margin: 0.5em 0;
+}
+
+dt {
+  float: left;
+  font-weight: bold;
+  width: 125px;
+}
+
+dd {
+  float: left;
+  margin-left: 1em;
+}
+
+#operations {
+  clear: both;
+  margin: 1em 0 1em 75px;
+}
+
+/* Errors */
+
+.errors {
+  display: inline-block;
+  border: 2px solid red;
+  color: red;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.errors ul {
+  margin-bottom: 0;
+  padding-left: 1em;
+}
+
+
+/* Styling for createItems input group and search bar */
+.input-group{
+  background: #767975;
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-bar{
+  background: #fff;
+  width: 100%;
+  height: 20%;
+  max-width: 400px;
+  display: flex;
+  padding-right: 2px;
+  border-radius: 4px;
+  font-size: 18px;
+}
+
+
+
+/* Styling for buttons and filters */
+.btn-primary{
+  height: 24%;
+  width: 70px;
+}
+
+.filter{
+  width: 110px;
+  height: 35px;;
+
+}
+
+
+/* Styling for AddToCart section */
+.addToCart {
+  display: inline-block;
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.shop-cart{
+  margin: 30px;
+}
+
+.cart-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.cart-item img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-right: 10px;
+  border: 2px solid #4caf50;
+  padding-bottom: 40px;
+}
+
+.product-details {
+  flex-grow: 1;
+}
+
+.quantity-btn {
+  margin-right: 10px;
+}
+
+.remove-btn {
+  color: #4caf50;
+  cursor: pointer;
+}
+
+
+.page-show img{
+  width: 40px;
+}
+.page-show {
+margin: 40px 0;
+}
+
+/* Styling for login and signup forms */
+.login, .signup {
+  max-width: 400px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login h1, .signup h1 {
+  text-align: center;
+  color: #333;
+}
+
+.login label, .signup label {
+  display: block;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.login input, .signup input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.login input[type="submit"], .signup button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.login input[type="submit"]:hover, .signup button:hover {
+  background-color: #45a049;
+}
+
+.login p, .signup p {
+  color: red;
+}
