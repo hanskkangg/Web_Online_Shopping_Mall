@@ -3,6 +3,7 @@
 It's a web application with user authentication (login/signup), session management, and data handling capabilities. It includes both front-end components (HTML/JavaScript for forms and validation) and back-end components (PHP scripts for server-side logic, including database interactions).
 ---------------------------------------------------------------------
 FEATURES:
+<br>
 Index - The project includes an index.php for the front page.
 ![index](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/e240841a-a597-4543-adb9-c06df5655bf0)
 ![index2](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/9bb072fa-59d1-4338-9f6b-68450dd8716a)
