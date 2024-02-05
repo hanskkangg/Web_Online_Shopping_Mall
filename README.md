@@ -34,9 +34,13 @@ View item
 ![view item](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/b068c49b-0981-4789-aa80-8290f93fa251)
 
 User can also search item by using search bar. Search bar will look for the name or description of the item 
-
 ![search item](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/c6929fe1-8e81-4374-a760-4e92df2f97b0)
 
 VALIDATION
 ![signup_validation](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/453340f1-0c9a-48c6-9150-d99e3f2c2812)
 ![invalid password](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/4e3f4777-935c-4bbf-afd8-b16fd0fc7040)
+
+Database for Users / Items
+![Database](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/c1e362a7-0b58-4719-9a17-60e2ffbd568d)
+![database2](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/0808659e-ffa4-4e6f-88e8-d492ead98e3f)
+
