@@ -1,6 +1,6 @@
 # Web_Online_Shopping_Mall
 
-It's a web application with user authentication (login/signup), session management, and data handling capabilities. It includes both front-end components (HTML/JavaScript for forms and validation) and back-end components (PHP scripts for server-side logic, including database interactions).
+It's a web application with user authentication (login/signup), session management, and data handling capabilities. It includes both front-end components (HTML/CSS/JavaScript for forms and validation) and back-end components (PHP scripts for server-side logic, including database interactions).
 ---------------------------------------------------------------------
 FEATURES:
 <br>
