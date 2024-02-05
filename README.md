@@ -15,13 +15,27 @@ Sign-up/Login/Logout features(Users data stored in database)
 ![after login](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/72556dba-ddcf-47e6-bbcf-22b0486f3539)
 
 Once user log into account users can now shop by adding items to the cart.
+
+![mycart](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/c9f6db09-d1d6-4963-9ed2-77af74372770)
+
+![pay_cart](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/5d57504f-a066-4f1a-9f10-78d9b2d468f8)
+
+
+
+Item Control panel 
+![controlpanel](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/894a9568-4ac2-4f8b-bbfe-1d95ea9d8967)
+
+Users can also edit/delete items and add items with items price and pictures. (items are stroed in database)
+![edit item](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/882dd559-dc65-4f91-b539-765571d21f57)
+![delete item](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/9b608749-78e7-4aab-8bdd-ca95032597ab)
+![create new item](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/b80b23bf-91ad-4a1a-aedc-5691b2d97bbd)
 <br>
 View item
 ![view item](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/b068c49b-0981-4789-aa80-8290f93fa251)
-Control panel 
-![controlpanel](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/894a9568-4ac2-4f8b-bbfe-1d95ea9d8967)
+
 User can also search item by using search bar. Search bar will look for the name or description of the item 
-Users can also edit/delete items and add items with items price and pictures. (items are stroed in database)
+
+![search item](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/c6929fe1-8e81-4374-a760-4e92df2f97b0)
 
 VALIDATION
 ![signup_validation](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/453340f1-0c9a-48c6-9150-d99e3f2c2812)
