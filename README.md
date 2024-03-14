@@ -36,7 +36,7 @@ Users can also edit or delete items and add items with their prices and pictures
 <br>
 <br>
 
-View Item
+View the details of the item, which include its name, description, price, and picture.
 ![view item](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/b068c49b-0981-4789-aa80-8290f93fa251)
 <br>
 <br>
@@ -47,7 +47,7 @@ Users can also search for items by using the search bar, which looks for the nam
 <br>
 <br>
 
-VALIDATION
+The username must be unique, and the password and re-typed password must match.
 ![signup_validation](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/453340f1-0c9a-48c6-9150-d99e3f2c2812)
 ![invalid password](https://github.com/hanskkangg/Web_Online_Shopping_Mall/assets/156132740/4e3f4777-935c-4bbf-afd8-b16fd0fc7040)
 
